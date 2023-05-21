@@ -1,6 +1,6 @@
 # login
 
-![alt text](./docs/img.png)
+![alt text](https://raw.githubusercontent.com/iRaySpace/nuxtjs-legos/main/login/docs/preview.PNG)
 
 ## Build Setup
 
